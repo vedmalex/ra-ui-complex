@@ -1,0 +1,21 @@
+[submodule "packages/ra-gen-ui"]
+	path = packages/ra-gen-ui
+	url = git@github.com:vedmalex/ra-gen-ui.git
+[submodule "packages/ra-gen-ui-lib"]
+	path = packages/ra-gen-ui-lib
+	url = git@github.com:vedmalex/ra-gen-ui-lib.git
+[submodule "packages/regression-school"]
+	path = packages/regression-school
+	url = git@github.com:vedmalex/regression-school.git
+[submodule "packages/gql-lodash"]
+	path = packages/gql-lodash
+	url = git@github.com:vedmalex/gql-lodash.git
+[submodule "packages/gql-schema-builder"]
+	path = packages/gql-schema-builder
+	url = git@github.com:vedmalex/gql-schema-builder.git
+[submodule "packages/education-rnd"]
+	path = packages/education-rnd
+	url = git@github.com:vedmalex/education-rnd.git
+[submodule "packages/bs-school"]
+	path = packages/bs-school
+	url = git@github.com:vedmalex/bs-school.git
