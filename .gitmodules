@@ -19,3 +19,6 @@
 [submodule "packages/bs-school"]
 	path = packages/bs-school
 	url = git@github.com:vedmalex/bs-school.git
+[submodule "packages/fte.js"]
+	path = packages/fte.js
+	url = git@github.com:vedmalex/fte2.git
