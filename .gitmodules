@@ -22,3 +22,10 @@
 [submodule "packages/fte.js"]
 	path = packages/fte.js
 	url = git@github.com:vedmalex/fte2.git
+[submodule "packages/demo-server"]
+	path = packages/demo-server
+	url = git@github.com:vedmalex/demo-server.git
+[submodule "packages/cra-demo"]
+	path = packages/cra-demo
+	url = git@github.com:vedmalex/cra-demo.git
+
