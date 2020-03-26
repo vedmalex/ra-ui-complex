@@ -8880,7 +8880,7 @@ graphql-upload@^8.0.2:
     http-errors "^1.7.3"
     object-path "^0.11.4"
 
-graphql@14.6.0, graphql@^14.5.3, graphql@^14.6.0:
+graphql@14.6.0, graphql@^14.5.3:
   version "14.6.0"
   resolved "https://registry.yarnpkg.com/graphql/-/graphql-14.6.0.tgz#57822297111e874ea12f5cd4419616930cd83e49"
   integrity sha512-VKzfvHEKybTKjQVpTFrA5yUq2S9ihcZvfJAtsDBBCuV6wauPu1xl/f9ehgVf0FcEJJs4vz6ysb/ZMkGigQZseg==
@@ -14791,24 +14791,6 @@ ra-data-json-server@^3.3.1:
     query-string "^5.1.1"
     ra-core "^3.3.1"
 
-ra-gen-ui@1.0.0-rc.0:
-  version "1.0.0-rc.0"
-  resolved "https://registry.yarnpkg.com/ra-gen-ui/-/ra-gen-ui-1.0.0-rc.0.tgz#d4fcd2fbdd01dadacbdfffbdb0022c2fc5a68729"
-  integrity sha512-Cr1E0j4G09lOYBybnXrnVHJ3luX9ZmCwq5CKLVY1XorvSl0hdp2W532BnVV6dosfICi6G+1rrrohwM80oW6SFA==
-  dependencies:
-    "@types/crc" "^3.4.0"
-    camelcase "^5.3.1"
-    crc "^3.8.0"
-    diff "^4.0.2"
-    fs-extra "^7.0.1"
-    fte.js "^1.0.0-beta.5"
-    inflected "^2.0.4"
-    lodash "^4.17.15"
-    mem-fs "^1.1.3"
-    mem-fs-editor "^5.1.0"
-    prettier "1.19.1"
-    string-humanize "^1.0.1"
-
 ra-i18n-polyglot@^3.3.3:
   version "3.3.3"
   resolved "https://registry.yarnpkg.com/ra-i18n-polyglot/-/ra-i18n-polyglot-3.3.3.tgz#52cad332a71c6cda26fd02be1372e03ee1bc8b27"
@@ -14817,7 +14799,7 @@ ra-i18n-polyglot@^3.3.3:
     node-polyglot "^2.2.2"
     ra-core "^3.3.3"
 
-ra-input-rich-text@3.3.1, ra-input-rich-text@^3.3.1:
+ra-input-rich-text@3.3.1:
   version "3.3.1"
   resolved "https://registry.yarnpkg.com/ra-input-rich-text/-/ra-input-rich-text-3.3.1.tgz#3875a812b05a5e41f2c4b36be0008040a1ee7108"
   integrity sha512-SPrN7uL7ZbGFK2pBNv6YH8tym17MFWGjiHP+nwZvaBTFdPjby/SyG2iBHLKrSfnR+JYA8TB73Ubbc/hvo8R2iw==
